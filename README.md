@@ -1,17 +1,96 @@
-<h1 align="center">Hi 👋, I'm Madora Weerasinghe</h1>
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
+<!-- Profile Heading and Intro -->
+<h1 align="center">Hi there, I'm <a href="https://github.com/it22054722">Madora Weerasinghe</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">A passionate frontend developer from Sri Lanka 🇱🇰</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it22054722&label=Profile%20views&color=0e75b6&style=flat" alt="it22054722" /> </p>
-
-- 📫 How to reach me **manthimadora14@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/madora2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madora2001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manthi madora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manthi madora" height="30" width="40" /></a>
-<a href="https://fb.com/madora weerasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madora weerasinghe" height="30" width="40" /></a>
-<a href="https://instagram.com/madora weerasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madora weerasinghe" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/it22054722"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=0F9D58&size=22&center=true&vCenter=true&lines=Building+Cool+Projects;Exploring+New+Technologies!" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- Profile View Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=it22054722&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64869109/123456731-964b8f80-d5db-11eb-9de4-fcf347ef1982.gif" alt="coding banner" width="80%" />
+</p>
+
+<!-- About Me Section -->
+<div align="center" style="font-size: 1.1em; margin-top: 20px;">
+  <p>🔭 I’m currently working on <strong>Web Development Projects</strong></p>
+  <p>🌱 I’m learning <strong>Fullstack Development with React and Node.js</strong></p>
+  <p>💬 Ask me about <strong>Frontend Development, UI/UX</strong></p>
+  <p>📫 How to reach me: <strong><a href="mailto:manthimadora14@gmail.com">manthimadora14@gmail.com</a></strong></p>
+  <p>⚡ Fun fact: <strong>I love hiking and exploring nature!</strong></p>
+</div>
+
+<!-- Connect with Me -->
+<h3 align="center" style="margin-top: 40px;">Connect with me:</h3>
+<p align="center">
+  <a href="https://twitter.com/madora2001" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="twitter" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/manthi-madora" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="40" width="40" /></a>
+  <a href="https://fb.com/madora.weerasinghe" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="facebook" height="40" width="40" /></a>
+  <a href="https://instagram.com/madora.weerasinghe" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram" height="40" width="40" /></a>
+</p>
+
+<!-- Languages and Tools -->
+<h3 align="center" style="margin-top: 40px;">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="react" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html5" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" />
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="php" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" />
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java" />
+  </a>
+</p>
+
+<!-- GitHub Stats -->
+<h3 align="center" style="margin-top: 40px;">📊 My GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=it22054722&show_icons=true&theme=radical" alt="Madora's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=it22054722&theme=radical" alt="Madora's GitHub Streak Stats" />
+</p>
+
+<!-- Contributions Graph -->
+<h3 align="center" style="margin-top: 40px;">🔥 Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=it22054722&theme=radical" width="55%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it22054722&layout=compact&theme=radical" alt="Top Languages" width="49%" />
+</p>
+
+<!-- Footer GIF -->
+<p align="center" style="margin-top: 40px;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" />
+</p>
+
+<h3 align="center" style="margin-top: 20px;">Let's Collaborate</h3>
+<p align="center" style="font-size: 1.1em;">
+  I'm always open to collaborate on exciting projects. Feel free to reach out to me via email or any social media platforms above!
+</p>
+
+<p align="center">
+  <a href="https://github.com/it22054722" target="_blank">
+    <img src="https://img.shields.io/github/followers/it22054722?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+</p>
