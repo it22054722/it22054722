@@ -67,7 +67,8 @@
 <h3 align="center" style="margin-top: 40px;">📊 My GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=it22054722&show_icons=true&theme=radical" alt="Madora's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=it22054722&theme=radical" alt="Madora's GitHub Streak Stats" />
+  
+  
 </p>
 
 <!-- Contributions Graph -->
